@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/Blueprints/GameState/V2/NewGameState.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/Blueprints/GameState/BP_PlayerCharacter.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/UI/W_Chores.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/Levels/TestLevel.umap",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/Blueprints/GameState/V2/BP_ObjBase.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/Blueprints/GameState/BP_Mom.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/UI/W_Dialogue.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/Blueprints/GameState/V2/BPI_Interactable.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/Blueprints/Objects/BP_Door.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/Blueprints/GameState/V2/TypeOfChore.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/Blueprints/Objects/FetchChore.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam2/Content/Assets/Oofers/Materials/TestMaterial.uasset"
+			]
+		}
+	]
+}
